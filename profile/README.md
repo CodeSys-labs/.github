@@ -1,5 +1,5 @@
-
-<h1 align="center"> Hi there 👋 welcome to CodeSys lab, where all of our code(sys) lives. <h1> 
+<h1 align="center"> Hi there 👋 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px></h1>
+<h3 align="center"><i>Welcome to CodeSys lab, where all of our code(sys) lives.</i></h3>
 
 <br>
 
