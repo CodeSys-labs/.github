@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <h3 align="center"><i>Welcome to CodeSys lab, where all of our code(sys) lives.</i></h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codesys-labs&label=Profile%20views&color=0e75b6&style=flat" alt="emilianoescobedo" /> </p>
 <br>
 <p align="center">
   <img src="https://i.ibb.co/MgmpV6J/asd.png">
