@@ -1,19 +1,15 @@
-<h1 align="center"> Hi there 👋 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px></h1>
+<h1 align="center"> Hi there 👋 </h1>
 <h3 align="center"><i>Welcome to CodeSys lab, where all of our code(sys) lives.</i></h3>
 
 <br>
-
 <p align="center">
   <img src="https://i.ibb.co/MgmpV6J/asd.png">
 </p>
+<br>
 
+<h3 align="center">Connect With Us! </h3>
+<p align="center">
+	<a href="https://www.linkedin.com/company/codesys-ar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeSys" height="30" width="40" /></a>
+  <a href="mailto:info@codesys.com.ar" target="blank"><img align="center" src= "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="CodeSys" height="40" width="40" /></a>
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
